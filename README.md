@@ -9,13 +9,13 @@
 
 - 🤝 I’m looking for help with [Data Structures and Algorithms](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Chelsi-create)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Chelsi-create)
 
 - 💬 Ask me about **Machine Learning, Natural Language Processing, Flask, Django, Angular, React, AWS, Google Firebase, Data Structures and Algorithms**
 
 - 📫 How to reach me **chelsiworld@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Qg1X-rP5pK5DE44Q54IYEEeR2rKZoytQ/view?usp=sharing](https://drive.google.com/file/d/1Qg1X-rP5pK5DE44Q54IYEEeR2rKZoytQ/view?usp=sharing)
+- 📄 Know about my experiences [ - Resume](https://drive.google.com/file/d/1Qg1X-rP5pK5DE44Q54IYEEeR2rKZoytQ/view?usp=sharing)
 
 - ⚡ Fun fact **I sometimes find solutions to programming problems in my dreams, only to forget them by the next morning!**
 
