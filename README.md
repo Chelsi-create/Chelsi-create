@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chelsi Jain, a Master's student at Oregon State University</h1>
+<h1 align="center">Hi 👋, I'm Chelsi Jain</h1>
+<h3 align="center">👨‍💻 I'm pursuing a master's degree in Computer Science at Oregon State University.</h3>
 <h3 align="center">🚀 I'm deeply interested in Machine Learning and Natural Language Processing, always eager to explore and innovate. I also dabble in Full-Stack Web Development, AWS and love contributing to open-source projects.</h3>
 
 - 🔭 I’m currently working on [ShagunCapital](shaguncapital.com)
