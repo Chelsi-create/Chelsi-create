@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chelsi Jain, a Master's student at Oregon State University</h1>
 <h3 align="center">🚀 I'm deeply interested in Machine Learning and Natural Language Processing, always eager to explore and innovate. I also dabble in Full-Stack Web Development, AWS and love contributing to open-source projects.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chelsi-create" alt="chelsi-create" /></a> </p>
-
 - 🔭 I’m currently working on [ShagunCapital](shaguncapital.com)
 
 - 🌱 I’m currently learning **Docker, Kubernetes, AWS**
@@ -11,7 +9,7 @@
 
 - 🤝 I’m looking for help with [Data Structures and Algorithms](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Chelsi-create?tab=repositories](https://github.com/Chelsi-create?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Chelsi-create)
 
 - 💬 Ask me about **Machine Learning, Natural Language Processing, Flask, Django, Angular, React, AWS, Google Firebase, Data Structures and Algorithms**
 
