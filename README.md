@@ -1,3 +1,4 @@
+[![MasterHead](https://miro.medium.com/v2/resize:fit:100/1*34WGNvh5yIUkfvjwnGQIyw.gif)](https://github.com/Chelsi-create)
 <h1 align="center">Hi 👋, I'm Chelsi Jain</h1>
 <h3 align="center">👨‍💻 I'm pursuing a master's degree in Computer Science at Oregon State University.</h3>
 <h4 align="center">🚀 I'm deeply interested in Machine Learning and Natural Language Processing, always eager to explore and innovate. I also dabble in Full-Stack Web Development, AWS and love contributing to open-source projects.</h4>
@@ -9,8 +10,6 @@
 - 🌱 I’m currently learning **Docker, Kubernetes, AWS**
 
 - 👯 I’m looking to collaborate on **Nothing as of now, but I'm interested if you have an amazing idea!**
-
-- 🤝 I’m looking for help with [Data Structures and Algorithms](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Chelsi-create)
 
