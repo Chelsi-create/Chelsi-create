@@ -1,5 +1,9 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:100/1*34WGNvh5yIUkfvjwnGQIyw.gif)](https://github.com/Chelsi-create)
-<h1 align="center">Hi 👋, I'm Chelsi Jain</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Chelsi+Jain.&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
+
 <h3 align="center">👨‍💻 I'm pursuing a master's degree in Computer Science at Oregon State University.</h3>
 <h4 align="center">🚀 I'm deeply interested in Machine Learning and Natural Language Processing, always eager to explore and innovate. I also dabble in Full-Stack Web Development, AWS and love contributing to open-source projects.</h4>
 
