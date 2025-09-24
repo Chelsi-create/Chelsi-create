@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">👨‍💻 I'm pursuing a master's degree in Computer Science at Oregon State University.</h3>
-<h4 align="center">🚀 I'm deeply interested in Machine Learning and Natural Language Processing, always eager to explore and innovate. I also dabble in Full-Stack Web Development, AWS and love contributing to open-source projects.</h4>
+<h4 align="center">🚀 I'm deeply interested in LLM Agents and Inference Optimization always eager to explore and innovate. I also dabble in Full-Stack Web Development, AWS and love contributing to open-source projects.</h4>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
@@ -13,11 +13,11 @@
 
 - 🌱 I’m currently learning **Docker, Kubernetes, AWS**
 
-- 👯 I’m looking to collaborate on **Nothing as of now, but I'm interested if you have an amazing idea!**
+- 👯 **I'm interested in collaborating if you have an amazing idea!**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Chelsi-create)
 
-- 💬 Ask me about **Machine Learning, Natural Language Processing, Flask, Django, Angular, React, AWS, Google Firebase, Data Structures and Algorithms**
+- 💬 Ask me about **LLM Agents, Responsible AI, Inference Optimization, Flask, Django, Angular, React, AWS, Google Firebase, Data Structures and Algorithms**
 
 - 📫 How to reach me **chelsiworld@gmail.com**
 
