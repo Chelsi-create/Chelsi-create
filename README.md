@@ -21,8 +21,6 @@
 
 - 📫 How to reach me **chelsiworld@gmail.com**
 
-- 📄 Know about my experiences [ - Resume](https://drive.google.com/file/d/1Qg1X-rP5pK5DE44Q54IYEEeR2rKZoytQ/view?usp=sharing)
-
 - ⚡ Fun fact **I sometimes find solutions to programming problems in my dreams, only to forget them by the next morning!**
 
 <h3 align="left">Connect with me:</h3>
